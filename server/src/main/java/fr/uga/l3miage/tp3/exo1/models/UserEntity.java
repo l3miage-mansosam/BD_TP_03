@@ -15,7 +15,7 @@ import java.util.Set;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class UserEntity {
+public class UserEntity  {
     @Id
     private String name;
     @Email
